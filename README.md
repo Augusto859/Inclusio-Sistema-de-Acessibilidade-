@@ -1,2 +1,2 @@
-# Inclusio-Sistema-de-Acessibilidade-
+# Inclusio (Totem de Acessibilidade)
 Totem com sistema de acessibilidade para pessoas surdas, daltônicas e com deficiências visuais, construído com Python
